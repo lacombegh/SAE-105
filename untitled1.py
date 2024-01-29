@@ -182,14 +182,14 @@ htmlcontenu='''
        <br>Nombre de flag [.] (ACK) = %s
        <br>
        <br>
-       <img src="C:/Users/Administrateur/Desktop/graphe1.png">
+       <img src="D:/TP SAE 1-05/SAE15(1)/SAE15/graphe1.png">
        <h3> Nombre des requests et replys </h3>
        Request = %s 
        <br>
        Reply = %s
        <br>
        <br>
-       <img src="C:/Users/Administrateur/Desktop/graphe2.png">
+       <img src="D:/TP SAE 1-05/SAE15(1)/SAE15/graphe2.png">
        <h3>Statistiques entre seq et win et ack </h3>
        Nombre de seq = %s
            <br>
